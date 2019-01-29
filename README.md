@@ -17,6 +17,19 @@ export TWITTER_ACCESS_TOKEN='...'
 export TWITTER_ACCESS_TOKEN_SECRET='...'
 ```
 
+## Badges
+
+[![npm version][npm-badge-url]][npm-url]
+[![Travis CI][travisci-badge-url]][travisci-url]
+[![Coveralls][coveralls-badge-url]][coveralls-url]
+
+[coveralls-badge-url]: https://img.shields.io/coveralls/github/bouzuya/cars-counter-wakeup.svg
+[coveralls-url]: https://coveralls.io/github/bouzuya/cars-counter-wakeup
+[npm-badge-url]: https://img.shields.io/npm/v/bouzuya/cars-counter-wakeup.svg
+[npm-url]: https://www.npmjs.com/package/@bouzuya/cars-counter-wakeup
+[travisci-badge-url]: https://img.shields.io/travis/bouzuya/cars-counter-wakeup.svg
+[travisci-url]: https://travis-ci.org/bouzuya/cars-counter-wakeup
+
 ## License
 
 [MIT](LICENSE)
