@@ -4,8 +4,8 @@ A [bouzuya/cars][] counter.
 
 ## Installation
 
-```
-$ npm install --save bouzuya/cars-counter-wakeup
+```bash
+npm install @bouzuya/cars-counter-wakeup
 ```
 
 ## Configuration
