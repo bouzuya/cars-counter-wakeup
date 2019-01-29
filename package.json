@@ -24,8 +24,8 @@
     "url": "https://github.com/bouzuya/cars-counter-wakeup/issues"
   },
   "dependencies": {
-    "moment": "2.11.0",
-    "twitter": "1.2.5"
+    "moment": "^2.24.0",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
@@ -33,6 +33,7 @@
     "@babel/preset-env": "^7.3.1",
     "@types/node": "^10.12.18",
     "@types/power-assert": "^1.5.0",
+    "@types/twitter": "^1.7.0",
     "babel-preset-power-assert": "^3.0.0",
     "beater": "^5.0.1",
     "coveralls": "^3.0.2",
